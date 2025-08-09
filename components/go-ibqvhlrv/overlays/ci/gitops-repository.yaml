@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-ibqvhlrv-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-ibqvhlrv-gitops
